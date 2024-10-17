@@ -4,6 +4,9 @@
 
 This project focuses on the design and implementation of an industrial controller for an 8th order system. The primary objectives include modeling the system, designing a PID controller, and employing advanced control techniques like the Smith Predictor to manage time delays.
 
+![image](https://github.com/user-attachments/assets/796fe4ef-9dd9-4c42-a7eb-5ec19d13a7f7)
+
+
 ## Objectives
 
 1. **System Modeling**  
